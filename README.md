@@ -7,7 +7,7 @@ The project monitors Wi-Fi RSSI values from multiple Arduino boards connected to
 ## Features
 
 - Real-time RSSI monitoring
-- Multi-board support (UNO1, UNO2, UNO3)
+- Multi-board support (UNO1, UNO2, UNO3) [You need to change board name when uploading code to Arduino]
 - UDP communication
 - Human motion detection
 - Live signal visualization
